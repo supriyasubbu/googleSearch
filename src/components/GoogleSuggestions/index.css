@@ -1,0 +1,40 @@
+.google-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.image {
+  height: 100px;
+}
+
+.google-card-container {
+  width: 500px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin: 30px;
+}
+
+.google-card {
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  height: 20px;
+}
+
+.search-style {
+  width: 100%;
+  margin-left: 5px;
+  outline: none;
+  border: 0px;
+}
+
+.list-container {
+  padding: 0px;
+  list-style: none;
+}
